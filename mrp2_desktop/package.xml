@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>mrp2_desktop</name>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <description>Visualization tools and configurations for MRP2 robot.</description>
   <maintainer email="akifhno@gmail.com">Akif Hacinecipoglu</maintainer>
   <license>BSD</license>
